@@ -24,7 +24,8 @@ body {
  position: relative;
 }
 
-.image-container:hover .overlay {
+.image-container:hover .overlay,
+.image-container:active .overlay {
  opacity: 0.5;
 }
 
@@ -40,7 +41,7 @@ body {
  bottom: 0;
  left: 0;
  right: 0;
- height: 100%;
+ height: 99%;
  width: 100%;
  opacity: 0;
  transition: 0.3s ease;
@@ -66,7 +67,8 @@ body {
  color: hsl(0, 0%, 100%);
  padding-top: 0.5rem;
 }
-.title:hover {
+.title:hover,
+.title:active {
  color: hsl(178, 100%, 50%);
  cursor: pointer;
 }
@@ -132,6 +134,8 @@ hr {
 .author {
  color: hsl(0, 0%, 100%);
 }
-.author:hover {
+.author:hover,
+.author:active {
  color: hsl(178, 100%, 50%);
+ cursor: pointer;
 }
