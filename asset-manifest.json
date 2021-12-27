@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/card-component-practice/static/css/main.1cf4e047.css",
-    "main.js": "/card-component-practice/static/js/main.577c8540.js",
+    "main.js": "/card-component-practice/static/js/main.6f701a75.js",
     "static/media/image-equilibrium.jpg": "/card-component-practice/static/media/image-equilibrium.88bdbc91a544a2a4d04a.jpg",
     "index.html": "/card-component-practice/index.html",
     "static/media/icon-view.svg": "/card-component-practice/static/media/icon-view.fedac5512cc6657af397a76d5e03ea37.svg",
     "static/media/icon-clock.svg": "/card-component-practice/static/media/icon-clock.991a65225dab4fadc84345ecb35faa1b.svg",
     "static/media/icon-ethereum.svg": "/card-component-practice/static/media/icon-ethereum.5221f33297e5dc863451e2da9a758c12.svg",
     "main.1cf4e047.css.map": "/card-component-practice/static/css/main.1cf4e047.css.map",
-    "main.577c8540.js.map": "/card-component-practice/static/js/main.577c8540.js.map"
+    "main.6f701a75.js.map": "/card-component-practice/static/js/main.6f701a75.js.map"
   },
   "entrypoints": [
     "static/css/main.1cf4e047.css",
-    "static/js/main.577c8540.js"
+    "static/js/main.6f701a75.js"
   ]
 }
