@@ -8,7 +8,7 @@ import view from './assets/images/icon-view.svg';
 function App() {
  return (
   <>
-   <div className='main-container'>
+   <div className='main-container' tabindex='-1'>
     <div className='content'>
      <div className='image-container'>
       <img className='main-image' src={mainImage} alt='' />
